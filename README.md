@@ -9,3 +9,4 @@
 
 ## Find me
 [![Instagram](https://img.shields.io/badge/-Instagram-FF91A4?&logo=Instagram&logoColor=fff)](https://www.instagram.com/loris_lrti/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-FF91A4?&logo=LinkedIn&logoColor=0A66C2)]([https://www.linkedin.com/in/jarjatremi/](https://www.linkedin.com/feed/)https://www.linkedin.com/feed/)
