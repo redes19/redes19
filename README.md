@@ -7,7 +7,7 @@
 
   [![redes19](https://github-profile-trophy.vercel.app/?username=redes19&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A&no-bg=true&no-frame=true&margin-w=16)](https://github.com/ryo-ma/github-profile-trophy)
 
-## Find me
+## Trouver moi
 [![Instagram](https://img.shields.io/badge/-Instagram-FF91A4?&logo=Instagram&logoColor=fff)](https://www.instagram.com/loris_lrti/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/loris-laurenti-ab4081260/)](https://www.linkedin.com/in/loris-laurenti-ab4081260/)
 
